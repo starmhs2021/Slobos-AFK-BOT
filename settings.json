@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "starmhs.aternos.me:32915",
+    "ip": "starmhs.aternos.me",
     "port": 32915,
     "version": "26.1.2"
   },
